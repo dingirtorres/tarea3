@@ -1,0 +1,11 @@
+/*
+color rojo rgb "red"
+color amarillo rgb yellow
+color verde rgb green
+
+*/
+
+
+.titulo{color:red; font-family: 'Times New Roman', Times, serif; font-size: 60px;}
+.subtitulo{color:yellow; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 50px;}
+.listaDesordenada{color: green; font-family: 'Courier New', Courier, monospace; font-size: 30px;}
